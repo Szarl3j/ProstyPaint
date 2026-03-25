@@ -1,0 +1,15 @@
+C:\Users\hrabi\Source\Repos\ProstyPaint1\obj\Debug\PaintApplicationAssignment.csproj.AssemblyReference.cache
+C:\Users\hrabi\Source\Repos\ProstyPaint1\obj\Debug\PaintApplicationAssignment.Form1.resources
+C:\Users\hrabi\Source\Repos\ProstyPaint1\obj\Debug\PaintApplicationAssignment.Properties.Resources.resources
+C:\Users\hrabi\Source\Repos\ProstyPaint1\obj\Debug\PaintApplicationAssignment.csproj.GenerateResource.cache
+C:\Users\hrabi\Source\Repos\ProstyPaint1\obj\Debug\PaintApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hrabi\RiderProjects\ProstyPaint1\obj\Debug\PaintApplicationAssignment.csproj.AssemblyReference.cache
+C:\Users\hrabi\RiderProjects\ProstyPaint1\obj\Debug\PaintApplicationAssignment.Form1.resources
+C:\Users\hrabi\RiderProjects\ProstyPaint1\obj\Debug\PaintApplicationAssignment.Properties.Resources.resources
+C:\Users\hrabi\RiderProjects\ProstyPaint1\obj\Debug\PaintApplicationAssignment.csproj.GenerateResource.cache
+C:\Users\hrabi\RiderProjects\ProstyPaint1\obj\Debug\PaintApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hrabi\RiderProjects\ProstyPaint1\bin\Debug\PaintApplicationAssignment.exe.config
+C:\Users\hrabi\RiderProjects\ProstyPaint1\bin\Debug\PaintApplicationAssignment.exe
+C:\Users\hrabi\RiderProjects\ProstyPaint1\bin\Debug\PaintApplicationAssignment.pdb
+C:\Users\hrabi\RiderProjects\ProstyPaint1\obj\Debug\PaintApplicationAssignment.exe
+C:\Users\hrabi\RiderProjects\ProstyPaint1\obj\Debug\PaintApplicationAssignment.pdb
